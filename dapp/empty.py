@@ -11,7 +11,7 @@ from contractvmd.chain.message import Message
 logger = logging.getLogger(config.APP_NAME)
 
 class EmptyProto:
-	DAPP_CODE = 0xff
+	DAPP_CODE = [ 0x01, 0x04 ]
 	METHOD_LIST = []
 
 
