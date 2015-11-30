@@ -7,7 +7,7 @@ from setuptools import find_packages
 from setuptools import setup
 
 setup(name='empty',
-	version='0.0.1',
+	version='0.1',
 	description='empty dapp library',
 	author='Empty Author',
 	author_email='empty@gmail.com',
